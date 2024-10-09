@@ -1,2 +1,2 @@
-test check
+Test check
 test check 2
